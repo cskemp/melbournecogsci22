@@ -1,0 +1,11 @@
+name: "Melbourne CogSci22 Meetup"
+navbar:
+  title: "Melbourne CogSci22 Meetup"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Code of Conduct"
+      href: codeofconduct.html
+exclude: ["docs"]
+      
+    

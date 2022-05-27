@@ -1,0 +1,40 @@
+---
+title: "Code of Conduct"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 10px;">
+
+### Code of Conduct
+
+The meetup is open to all and should  provide an environment in which diverse participants may learn, network, and enjoy the company of colleagues. All forms of harassment are prohibited, and specific prohibited behaviors include but are not limited to the following:
+
+* Harassment or intimidation based on gender, gender identity, gender expression, age, sexual orientation, disability, appearance, body size, race, ethnicity, political orientation and views, religion (or lack thereof), or other group status
+* Unwelcome behavior or comments related to the above categories that create a hostile environment (e.g., sexist or racist jokes)
+* Sexual harassment or intimidation, including unwelcome sexual attention
+* Harassing photography or recording
+* Stalking
+* Advocating for, or encouraging, any of the above behavior
+
+
+#### Enforcement
+Any attendee asked to stop harassing behavior or other behavior in violation of the Code of Conduct is expected to comply immediately.  The meetup organizer reserves the right to take actions in order to keep the event a welcoming environment for all participants. These actions may range from simply warning the offender to asking that person to leave.
+
+
+#### Reporting
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please report this to Charles Kemp immediately.   You can make a report either personally or by emailing your report to `c.kemp@unimelb.edu.au`   
+
+</div>
+
+
