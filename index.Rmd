@@ -29,7 +29,9 @@ in conjunction with  [CogSci 2022](  https://cognitivesciencesociety.org/cogsci-
 
 * *When*: July 27, 2:00 pm - 4:00 pm (Melbourne time) 
 
-* *Where*: University of Melbourne (room TBA) 
+* *Where*: University of Melbourne, [Yasuko Hiraoka Myer Room](
+https://maps.unimelb.edu.au/parkville/building/158/yasuko-hiraoka-myer-room
+)
 
 * *Format*: Our goal is to use much of the time for discussion and personal interaction. The format has not yet been finalized, but the first part of the workshop will focus on small group discussions. Each attendee will have a chance to introduce themselves to their group and talk about their interests. The second part will focus on research presentations. There will be two kinds of presentations:
     * 2 minute flash talks are for people who'd like to give a brief introduction to something they're working on, and it's fine to sign up for a flash talk regardless of whether you have any results to share. 
