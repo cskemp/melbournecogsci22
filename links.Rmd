@@ -1,0 +1,66 @@
+---
+title: "Links"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+th, td {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 10px;">
+
+<h3> Recent work from Melbourne </h3>
+
+Meetup participants have recent or upcoming presentations at meetings involving the [Australasian Brain and Psychological Sciences Meeting](https://www.acns.org.au/conferences/abps-2022/), the [Meeting of the Society for Mathematical Psychology]( 
+https://mathpsych.org/conference/10/ ), the [Monash Addiction Research Centre Symposium](https://www.monash.edu/medicine/ehcs/marc/marc-symposium), the  [Mathematical Cognition & Learning Society Conference](https://mcls2022.com/), the [Annual Computational Neuroscience Meeting](https://www.cnsorg.org/cns-2022), and the [Annual Meeting of the Cognitive Science Society](https://cognitivesciencesociety.org/program/).
+
+Below are links to some online presentations describing recent work.
+
+<div class="col-sm-4">
+<a href="https://youtu.be/2C6wCdJqx6I?t=405" target="_blank"><img src="http://img.youtube.com/vi/2C6wCdJqx6I/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Alice Gaby: "Language: window, mould or clay?"
+
+</div>
+
+<div class="col-sm-4">
+<a href="https://www.youtube.com/watch?v=wsrctoOaXx0"
+ target="_blank"><img src="http://img.youtube.com/vi/wsrctoOaXx0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Matthew Jiwa, "Hedonism in information search - biased information-seeking leads to biased beliefs"
+
+</div>
+
+<div class="col-sm-4">
+<a href="https://www.youtube.com/channel/UCvRuQWqbKbHJFCC4xabOI4g">
+<img src="http://img.youtube.com/vi/MMIBeijmCNE/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+A Youtube channel (Neural Basis of Consciousness) featuring talks from Nao Tsuchiya's lab.
+</div>
+
+<div class="col-sm-4">
+<a href="https://www.youtube.com/watch?v=KrfIsIS_PGk&list=PLEP8weJRxEPYEbRLP3K7x6szW7kTWEADs" target="_blank"><img src="http://img.youtube.com/vi/KrfIsIS_PGk/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+A playlist of talks given by Nao Tsuchiya.
+</div>
+
+
+</div>
+
+

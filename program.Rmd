@@ -1,0 +1,156 @@
+---
+title: "Program"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+th, td {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 10px;">
+
+
+<h3> Program overview</h3>
+<table>
+  <tr>
+    <td>2:00 - 2:25 </td>
+    <td> Welcome and small-group discussions</td>
+  </tr>
+  <tr>
+    <td>2:25 - 3:00 </td>
+    <td> Flash talks (Session A) </td>
+  </tr>
+  <tr>
+    <td>3:00 - 3:10 </td>
+    <td> Break </td>
+  </tr>
+  <tr>
+    <td>3:10 - 3:45 </td>
+    <td> Flash talks (Session B) </td>
+  </tr>
+  <tr>
+    <td>3:45 - 3:55 </td>
+    <td> Town hall discussion </td>
+  </tr>
+</table>
+
+
+
+<h4> Flash talk format </h4>
+Please aim to present for up to 2 minutes, and we'll also allow roughly 2 minutes for questions after each presentation.
+If you'd like to use slides, please bring them on your own laptop if possible. If you don't have access to a laptop, you can send slides to Charles or Daniel before the session. During the session we'll ask presenters to connect to a Zoom meeting that is projected to the entire room, and presenters will be able to share their screen so that everyone can see their slides.
+
+
+<h4> Flash talks (Session A) </h4>
+<table>
+  <tr>
+    <td>Daniel Feuerriegel</td>
+    <td> Tracking the journey from sensation to action </td>
+  </tr>
+  <tr>
+    <td> Thomas Poulton </td>
+    <td> The language of olfaction </td>
+  </tr>
+  <tr>
+    <td> Erynn Christensen </td>
+    <td> Neurocognitive predictors of addictive behaviours </td>
+  </tr>
+  <tr>
+    <td> William Turner </td>
+    <td> Rapid re-weighting of sensory signals and predictions during visual object tracking </td>
+  </tr>
+  <tr>
+    <td> Mehul Gajwani </td>
+    <td> The effects of MRI pre-processing on diffusion connectomics </td>
+  </tr>
+  <tr>
+    <td> James Fodor </td>
+    <td> Distributed Semantic Models of Compositionality </td>
+  </tr>
+  <tr>
+    <td> Prerika Sharma</td>
+    <td> Trauma and false memories </td>
+  </tr>
+  <tr>
+    <td> Dan Myles </td>
+    <td>   Exploring bimodal responses to a simple online gambling task </td>
+  </tr>
+  <tr>
+    <td> Natalia Egorova-Brumley </td>
+    <td> Experimental pain research at the MSPS </td>
+  </tr>
+  <tr>
+    <td> Johanna Boardman </td>
+    <td>  Awareness of errors is reduced following sleep loss </td>
+  </tr>
+  <tr>
+   <tr>
+    <td> Daniel Bennett</td>
+    <td>Affective reactivity to reward as a marker of the severity of emotional disorder symptoms  </td> 
+    </tr>
+</table>
+
+<h4> Flash talks (Session B) </h4>
+<table>
+  <tr>
+    <td> Matthew Jiwa </td>
+    <td> Hedonism in information search - biased information-seeking leads to biased beliefs</td>
+  </tr>
+  <tr>
+    <td> Chunhua Liu </td>
+    <td> Word Association Explanations </td>
+  </tr>
+  <tr>
+    <td> Caitlin Hitchcock </td>
+    <td> Translating cognitive science into better mental health treatments </td>
+  </tr>
+  <tr>
+    <td> Douglas Russell </td>
+    <td> Sex hormones and adolescent brain development: Activational or organisational effects? Or both? </td>
+  </tr>
+  <tr>
+    <td> Gideon Kowadlo</td>
+    <td>  WM to combine Model Based and Model Free RL </td>
+  </tr>
+  <tr>
+    <td> Eleni Kavaliotis </td>
+    <td>  Examining the Role of Sleep in Appetitive Conditioning Disorders </td>
+  </tr>
+  <tr>
+    <td> Charlie Sexton </td>
+    <td>  Spike-timing dependent plasticity compensates for neural delays in a multi-layered network of motion-sensitive neurons </td>
+  </tr>
+  <tr>
+    <td> Ariel Zeleznikow-Johnston </td>
+    <td>  Are Colour Experiences The Same Across The Visual Field? </td>
+  </tr>
+  <tr>
+    <td> Emma Burrows</td>
+    <td>  Can mice be used to study complex cognitive functions? </td>
+  </tr>
+  <tr>
+    <td> Jacob Paul </td>
+    <td>  Numerosity tuning in human association cortices and local image contrast representations in early visual cortex </td>
+  </tr>
+</table>
+
+
+<h3> Mask policy </h3>
+
+Because of the recent increase in cases across Melbourne, we ask attendees to wear masks if possible.
+
+</div>
+
+

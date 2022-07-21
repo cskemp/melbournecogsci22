@@ -4,6 +4,10 @@ navbar:
   left:
     - text: "Overview"
       href: index.html
+    - text: "Program"
+      href: program.html
+    - text: "Links"
+      href: links.html
     - text: "Code of Conduct"
       href: codeofconduct.html
 exclude: ["docs"]
