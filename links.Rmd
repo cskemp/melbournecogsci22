@@ -46,6 +46,16 @@ Matthew Jiwa, "Hedonism in information search - biased information-seeking leads
 </div>
 
 <div class="col-sm-4">
+<a href="https://www.youtube.com/watch?v=zMeIv-U9_Hw"
+target="_blank"><img src="http://img.youtube.com/vi/zMeIv-U9_Hw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Jie Sun,  Incorporating exogenous and endogenous sources of evidence in recognition memory to explain trial-by-trial drift rate variability in the diffusion decision model
+
+</div>
+
+
+<div class="col-sm-4">
 <a href="https://www.youtube.com/channel/UCvRuQWqbKbHJFCC4xabOI4g">
 <img src="http://img.youtube.com/vi/MMIBeijmCNE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
@@ -59,6 +69,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
 
 A playlist of talks given by Nao Tsuchiya.
 </div>
+
+
+
+
 
 
 </div>
