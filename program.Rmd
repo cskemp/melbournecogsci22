@@ -60,10 +60,6 @@ If you'd like to use slides, please bring them on your own laptop if possible. I
     <td> Tracking the journey from sensation to action </td>
   </tr>
   <tr>
-    <td> Thomas Poulton </td>
-    <td> The language of olfaction </td>
-  </tr>
-  <tr>
     <td> Erynn Christensen </td>
     <td> Neurocognitive predictors of addictive behaviours </td>
   </tr>
@@ -96,10 +92,6 @@ If you'd like to use slides, please bring them on your own laptop if possible. I
     <td>  Awareness of errors is reduced following sleep loss </td>
   </tr>
   <tr>
-   <tr>
-    <td> Daniel Bennett</td>
-    <td>Affective reactivity to reward as a marker of the severity of emotional disorder symptoms  </td> 
-    </tr>
 </table>
 
 <h4> Flash talks (Session B) </h4>
@@ -117,10 +109,6 @@ If you'd like to use slides, please bring them on your own laptop if possible. I
     <td> Translating cognitive science into better mental health treatments </td>
   </tr>
   <tr>
-    <td> Douglas Russell </td>
-    <td> Sex hormones and adolescent brain development: Activational or organisational effects? Or both? </td>
-  </tr>
-  <tr>
     <td> Gideon Kowadlo</td>
     <td>  WM to combine Model Based and Model Free RL </td>
   </tr>
@@ -129,16 +117,8 @@ If you'd like to use slides, please bring them on your own laptop if possible. I
     <td>  Examining the Role of Sleep in Appetitive Conditioning Disorders </td>
   </tr>
   <tr>
-    <td> Charlie Sexton </td>
-    <td>  Spike-timing dependent plasticity compensates for neural delays in a multi-layered network of motion-sensitive neurons </td>
-  </tr>
-  <tr>
     <td> Ariel Zeleznikow-Johnston </td>
     <td>  Are Colour Experiences The Same Across The Visual Field? </td>
-  </tr>
-  <tr>
-    <td> Emma Burrows</td>
-    <td>  Can mice be used to study complex cognitive functions? </td>
   </tr>
   <tr>
     <td> Jacob Paul </td>
